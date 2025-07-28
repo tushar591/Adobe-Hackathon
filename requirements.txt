@@ -1,20 +1,18 @@
-# Requirements for Round 1B: Persona-Driven Document Intelligence
-# All packages are CPU-only and lightweight (<1GB total)
+# Requirements for Challenge 1b
+# All packages are CPU-only and have compatible versions
 
 # PDF Processing
 PyPDF2==3.0.1
 pdfplumber==0.10.3
 pdfminer.six==20221105
 
-# NLP and Text Processing (CPU-friendly)
-nltk==3.9.1
-spacy==3.8.0
+# NLP and Text Processing
+# Using spacy 3.7.4 as it is compatible with the specified model
+spacy==3.7.4
 https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.7.0/en_core_web_sm-3.7.0-py3-none-any.whl
+nltk==3.8.1
 
 # Mathematical and data processing
 numpy==1.26.0
 pandas==2.1.0
 scikit-learn==1.4.0
-
-# Standard libraries (already included in Python)
-# json, os, time, re, pathlib, datetime, typing, warnings, collections
