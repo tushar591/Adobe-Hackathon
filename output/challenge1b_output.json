@@ -1,0 +1,180 @@
+{
+  "metadata": {
+    "input_documents": [
+      "ANTI-RAGGING.pdf"
+    ],
+    "persona": "I am a graduate student in tourism and cultural studies with 2 years of experience. I have strong analytical skills and am familiar with academic research methodologies. I specialize in studying the intersection of cultural heritage and modern tourism practices.",
+    "job_to_be_done": "I need to write a comprehensive literature review on the cultural traditions and historical significance of tourism destinations in Southern Europe for my thesis. I'm particularly interested in how local culture influences modern tourism practices, traditional festivals, historical sites, and the impact of tourism on local communities.",
+    "processing_timestamp": "2025-07-28T19:34:36.414591",
+    "total_processing_time_seconds": 2.51,
+    "persona_analysis": {
+      "role": "student",
+      "domain": "academic_research",
+      "experience_level": "intermediate"
+    },
+    "job_analysis": {
+      "task_type": "literature_review",
+      "key_concepts": [
+        "i",
+        "a comprehensive literature review",
+        "the cultural traditions",
+        "historical significance",
+        "tourism destinations"
+      ]
+    }
+  },
+  "extracted_sections": [
+    {
+      "document": "ANTI-RAGGING.pdf",
+      "page_number": 1,
+      "section_title": "1. I, TUSHAR REVAGADE s/o - d/o Mr./Mrs./Ms BHARAT REVAGADE , having been admitted to",
+      "importance_rank": 1,
+      "relevance_score": 0.0,
+      "relevance_factors": [
+        "Title matches: i"
+      ]
+    },
+    {
+      "document": "ANTI-RAGGING.pdf",
+      "page_number": 1,
+      "section_title": "2. I have, in particular, perused clause 3 of the Regulations and am aware as to what constitutes",
+      "importance_rank": 2,
+      "relevance_score": 0.0,
+      "relevance_factors": [
+        "Title matches: i"
+      ]
+    },
+    {
+      "document": "ANTI-RAGGING.pdf",
+      "page_number": 1,
+      "section_title": "3. I have also, in particular, perused clause 7 and clause 9.1 of the Regulation and am fully aware",
+      "importance_rank": 3,
+      "relevance_score": 0.0,
+      "relevance_factors": [
+        "Title matches: i"
+      ]
+    },
+    {
+      "document": "ANTI-RAGGING.pdf",
+      "page_number": 1,
+      "section_title": "4. I hereby solemnly aver and undertake that:-",
+      "importance_rank": 4,
+      "relevance_score": 0.0,
+      "relevance_factors": [
+        "Title matches: i"
+      ]
+    },
+    {
+      "document": "ANTI-RAGGING.pdf",
+      "page_number": 1,
+      "section_title": "the Regulations.",
+      "importance_rank": 5,
+      "relevance_score": 0.0,
+      "relevance_factors": [
+        "Title matches: i"
+      ]
+    },
+    {
+      "document": "ANTI-RAGGING.pdf",
+      "page_number": 1,
+      "section_title": "9.1 of the Regulations, without prejudice to any other criminal action that may be taken",
+      "importance_rank": 6,
+      "relevance_score": 0.0,
+      "relevance_factors": [
+        "Title matches: i"
+      ]
+    },
+    {
+      "document": "ANTI-RAGGING.pdf",
+      "page_number": 1,
+      "section_title": "6. I hereby declare that I have not been expelled or debarred from admission in any institution in",
+      "importance_rank": 7,
+      "relevance_score": 0.0,
+      "relevance_factors": [
+        "Title matches: i"
+      ]
+    },
+    {
+      "document": "ANTI-RAGGING.pdf",
+      "page_number": 1,
+      "section_title": "VERIFICATION",
+      "importance_rank": 8,
+      "relevance_score": 0.0,
+      "relevance_factors": [
+        "Title matches: i"
+      ]
+    },
+    {
+      "document": "ANTI-RAGGING.pdf",
+      "page_number": 2,
+      "section_title": "1. I, Mr./Mrs./Ms. BHARAT REVAGADE father/ mother/ guardian of TUSHAR REVAGADE having",
+      "importance_rank": 9,
+      "relevance_score": 0.0,
+      "relevance_factors": [
+        "Title matches: i"
+      ]
+    },
+    {
+      "document": "ANTI-RAGGING.pdf",
+      "page_number": 2,
+      "section_title": "2. I have, in particular, perused clause 3 of the Regulations and am aware as to what constitutes",
+      "importance_rank": 10,
+      "relevance_score": 0.0,
+      "relevance_factors": [
+        "Title matches: i"
+      ]
+    }
+  ],
+  "subsection_analysis": [
+    {
+      "document": "ANTI-RAGGING.pdf",
+      "parent_section": "1. I, TUSHAR REVAGADE s/o - d/o Mr./Mrs./Ms BHARAT REVAGADE , having been admitted to",
+      "refined_text": "Pandhi Dwarka Prasad Mishra Indian Institute of Information Technology & Manufacturing Jabalpur , have received a copy of the UGC regulations on Curbing the menace of Ragging in Higher Educational Institutions, 2009, (hereinafter called the “Regulations”) carefully read and fully understood the provisions contained in the said Regulations",
+      "page_number": 1,
+      "importance_rank": 1,
+      "relevance_score": 5.445,
+      "word_count": 48,
+      "extraction_method": "paragraph_split"
+    },
+    {
+      "document": "ANTI-RAGGING.pdf",
+      "parent_section": "3. I have also, in particular, perused clause 7 and clause 9.1 of the Regulation and am fully aware",
+      "refined_text": "of the penal and administrative action that is liable to be taken against me in case I am found guilty of or abetting ragging, actively or passively, or being part of a conspiracy to promote ragging",
+      "page_number": 1,
+      "importance_rank": 2,
+      "relevance_score": 5.445,
+      "word_count": 36,
+      "extraction_method": "paragraph_split"
+    },
+    {
+      "document": "ANTI-RAGGING.pdf",
+      "parent_section": "1. I, TUSHAR REVAGADE s/o - d/o Mr./Mrs./Ms BHARAT REVAGADE , having been admitted to",
+      "refined_text": "Pandhi Dwarka Prasad Mishra Indian Institute of Information Technology & Manufacturing Jabalpur , have received a copy of the UGC regulations on Curbing the menace of Ragging in Higher Educational Institutions, 2009, (hereinafter called the “Regulations”) carefully read and fully understood the provisions contained in the said Regulations",
+      "page_number": 1,
+      "importance_rank": 3,
+      "relevance_score": 4.95,
+      "word_count": 48,
+      "extraction_method": "sentence_grouping"
+    },
+    {
+      "document": "ANTI-RAGGING.pdf",
+      "parent_section": "3. I have also, in particular, perused clause 7 and clause 9.1 of the Regulation and am fully aware",
+      "refined_text": "of the penal and administrative action that is liable to be taken against me in case I am found guilty of or abetting ragging, actively or passively, or being part of a conspiracy to promote ragging",
+      "page_number": 1,
+      "importance_rank": 4,
+      "relevance_score": 4.95,
+      "word_count": 36,
+      "extraction_method": "sentence_grouping"
+    },
+    {
+      "document": "ANTI-RAGGING.pdf",
+      "parent_section": "the Regulations.",
+      "refined_text": "I will not participate in or abet or propagate through any act of commission or omission that may be constituted as ragging under clause 3 of the Regulations",
+      "page_number": 1,
+      "importance_rank": 5,
+      "relevance_score": 4.95,
+      "word_count": 28,
+      "extraction_method": "paragraph_split"
+    }
+  ]
+}
